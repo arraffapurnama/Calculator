@@ -1,1 +1,2 @@
-My Calculator (～￣▽￣)～
+# Calculator
+My Calculator (～￣▽￣)～ | Ar'raffa
